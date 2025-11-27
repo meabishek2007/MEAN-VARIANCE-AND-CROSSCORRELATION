@@ -110,9 +110,9 @@ plot2d3('gnn', r);
 ---
 
 ## MANUAL CALCULATION:
-![WhatsApp Image 2025-11-11 at 21 05 18_a2e944fe](https://github.com/user-attachments/assets/665b708b-5944-4e44-bb0c-6df295986e5b)
 
-![WhatsApp Image 2025-11-11 at 21 05 45_5f42f5eb](https://github.com/user-attachments/assets/3569917a-7c4f-4fa6-ae43-992cde38b0fd)
+![WhatsApp Image 2025-11-27 at 19 12 05_e402f4e1](https://github.com/user-attachments/assets/1514684e-887d-4a53-854e-6a7a72ebdbfe)
+![WhatsApp Image 2025-11-27 at 19 12 20_c4c58120](https://github.com/user-attachments/assets/8e5d95df-f3be-4e5e-945f-7c8207c46ba0)
 
 ---
 
